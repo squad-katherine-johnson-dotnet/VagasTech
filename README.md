@@ -98,7 +98,8 @@ Durante a integração, o sistema realiza a seguinte jornada:
 O projeto conta com:
 
 * 📓 Notebook do Google Colab (`.ipynb`) contendo o código C#;
-* 🗄️ Banco de dados final `vagas_tech.db`;
+* 🗄️ Banco de dados inicial (`vagas_tech_inicial.db`), disponibilizado como base para os testes finais do projeto;
+* 🗄️ Banco de dados final (`vagas_tech.db`), contendo o estado do banco após a execução das funcionalidades;
 * 📄 Arquivo `DDL_Criacao.sql` com os comandos utilizados para criação das tabelas;
 * 💻 Código da aplicação desenvolvido em C#.
 
